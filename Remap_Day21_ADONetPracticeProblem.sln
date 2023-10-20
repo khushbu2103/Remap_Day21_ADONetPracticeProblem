@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33627.172
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Remap_Day21_ADONetPracticeProblem", "Remap_Day21_ADONetPracticeProblem\Remap_Day21_ADONetPracticeProblem.csproj", "{C0B0180E-6466-4708-AE11-3495B1318DFA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C0B0180E-6466-4708-AE11-3495B1318DFA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C0B0180E-6466-4708-AE11-3495B1318DFA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C0B0180E-6466-4708-AE11-3495B1318DFA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C0B0180E-6466-4708-AE11-3495B1318DFA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9F06B2B5-0D63-4BBC-A281-CF6D0F4E1804}
+	EndGlobalSection
+EndGlobal
